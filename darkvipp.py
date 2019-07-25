@@ -257,7 +257,7 @@ def pilih():
 		os.remove('out')
 	elif zedd =="9":
 		os.system('rm -rf login.txt')
-		os.system('xdg-open https://www.facebook.com/rizz.magizz')
+		os.system('xdg-open http://instagram.com/muhamad.badru23')
 		keluar()
 	elif zedd =="0":
 		keluar()
