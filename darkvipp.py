@@ -45,8 +45,8 @@ logo = """\033[1;97m█████████
 \033[1;97m ██ ██
 \033[1;97m╔════════════════════════════════════════╗
 \033[1;97m║\033[1;93m* \033[1;97mRecode  \033[1;91m: \033[1;96mMUHAMAD BADRU WASIH \033[1;97m                 ║
-\033[1;97m║\033[1;93m* \033[1;97mGithub  \033[1;91m: \033[1;96mhttps://github.com/Badrucyber/darkvip\033[1;97m║
-\033[1;97m║\033[1;93m* \033[1;97mIG      \033[1;91m: \033[1;92mhttps://www.instagram.com/muhamad.badru23/\033[4m\033[0m   \033[1;97m║
+\033[1;97m║\033[1;93m* \033[1;97mWhatsapp  \033[1;91m: \033[1;96m08985499841\033[1;97m║
+\033[1;97m║\033[1;93m* \033[1;97mIG      \033[1;91m: \033[1;92mhttps://www.instagram.com/wa.stry23/\033[4m\033[0m   \033[1;97m║
 \033[1;97m║\033[1;93m* \033[1;97mVersion \033[1;91m: \033[1;92m\033[4m1.1.0\033[0m                       \033[1;97m║
 \033[1;97m╚════════════════════════════════════════╝"""
 
@@ -257,7 +257,7 @@ def pilih():
 		os.remove('out')
 	elif zedd =="9":
 		os.system('rm -rf login.txt')
-		os.system('xdg-open http://instagram.com/muhamad.badru23')
+		os.system('xdg-open https://www.instagram.com/wa.stry23')
 		keluar()
 	elif zedd =="0":
 		keluar()
